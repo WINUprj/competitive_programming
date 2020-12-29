@@ -24,7 +24,7 @@ int main(){
   // print array out 
   printf("Bubble sort: "); 
   print_arr(a, len);
-
+  
   // call shuffle again
   shuffle(a, 10, len);
   // selection sort
